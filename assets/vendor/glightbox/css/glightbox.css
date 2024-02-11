@@ -583,33 +583,33 @@ iframe.wait-autoplay {
 }
 
 .gfadeOut {
-  -webkit-animation: gfadeOut 0.5s ease;
+  -webkit-animation: gfadeOut 0.2s ease;
   animation: gfadeOut 0.5s ease;
 }
 
 .gslideOutLeft {
-  -webkit-animation: gslideOutLeft 0.3s ease;
-  animation: gslideOutLeft 0.3s ease;
+  -webkit-animation: gslideOutLeft 0.1s ease;
+  animation: gslideOutLeft 0.1s ease;
 }
 
 .gslideInLeft {
-  -webkit-animation: gslideInLeft 0.3s ease;
-  animation: gslideInLeft 0.3s ease;
+  -webkit-animation: gslideInLeft 0.1s ease;
+  animation: gslideInLeft 0.1s ease;
 }
 
 .gslideOutRight {
-  -webkit-animation: gslideOutRight 0.3s ease;
-  animation: gslideOutRight 0.3s ease;
+  -webkit-animation: gslideOutRight 0.1s ease;
+  animation: gslideOutRight 0.1s ease;
 }
 
 .gslideInRight {
-  -webkit-animation: gslideInRight 0.3s ease;
-  animation: gslideInRight 0.3s ease;
+  -webkit-animation: gslideInRight 0.1s ease;
+  animation: gslideInRight 0.1s ease;
 }
 
 .gzoomIn {
-  -webkit-animation: gzoomIn 0.5s ease;
-  animation: gzoomIn 0.5s ease;
+  -webkit-animation: gzoomIn 0.2s ease;
+  animation: gzoomIn 0.2s ease;
 }
 
 .gzoomOut {
